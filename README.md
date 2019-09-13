@@ -1,2 +1,0 @@
-# Apartman
-Aplikacija
